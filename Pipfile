@@ -8,6 +8,11 @@ yapf = "*"
 
 [packages]
 flask = "*"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
+pymysql = "*"
+flask-wtf = "*"
+passlib = "*"
 
 [requires]
 python_version = "3.8"
